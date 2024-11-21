@@ -9,13 +9,13 @@ This project is my personal portfolio website, showcasing my background, skills,
 2. [Table of Contents](#table-of-contents)
 3. [Usage](#usage)
 4. [Installation](#installation)
-5. [License](#license)
-6. [Technologies Employed](#technologies-employed)
-7. [Future Development](#future-development)
-8. [Contributing](#contributing)
-9. [Credits](#credits)
-10. [Tests](#tests)
-11. [Questions](#questions)
+5. [Technologies Employed](#technologies-employed)
+6. [Future Development](#future-development)
+7. [Contributing](#contributing)
+8. [Credits](#credits)
+9. [Tests](#tests)
+10. [Questions](#questions)
+11. [License](#license)
 
 ## Usage
 ### User Story
@@ -56,7 +56,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 
 ## Installation
-This application is deployed on [GitHub Pages](https://skylar-shae.github.io/skylark-react-portfolio/) as well as [FILL DETAILS HERE](https://FILLLINKDETAILS)
+This application is deployed on [Netlify](https://skylark-shae-portfolio.netlify.app/).
 
 <br/>
 Demonstration the application's desktop and overall functionality:
@@ -68,14 +68,6 @@ Demonstration the application's mobile interface:
 
 LINK
 
-## License
-
-This project is licensed under the MIT license.
-
-The MIT License is a permissive software license originating at the Massachusetts Institute of Technology (MIT)[6] in the late 1980s.[7] As a permissive license, it puts very few restrictions on reuse and therefore has high license compatibility.
-
-For more information visit [MIT Licensing](https://choosealicense.com/licenses/mit/).
-
 ## Technologies Employed
 * React
 * React-dom
@@ -86,10 +78,11 @@ For more information visit [MIT Licensing](https://choosealicense.com/licenses/m
 * JavaScript
 
 ## Future Development
-I plan to contibue development and would specifically like to add the following:
-- Update projects with short GIF, replacing all pictures.
-- Visually integrate project pictures with portfolio style.
+I plan to continue development and would specifically like to add the following:
+- Where applicable: update projects with a short GIF.
+- Visually integrate project pictures with portfolio style, possibly color shifting the site themes.
 - Add projects as available and continue developing skills.
+- Correct faChecks to all remain the same size. Issue persisting in "Personal Experience".
 
 ## Contributing
 Contributions are welcome and encouraged. To do so:
@@ -98,7 +91,7 @@ Contributions are welcome and encouraged. To do so:
 - Take a look at the [Future Development](#future-development) section to see what I am currently working on.
 
 ## Credits
-I designed this with the help from a work associate, Sparrow Rossberg, who works with react and assisted with creating a file structure. Despite her telling me it is unneeded to directly attribute her I felt it was disenginuous to post this project without her name being on it for helping a large amount.
+I designed this with the help from a work associate, Sparrow Rossberg, who works with react and TypeScript She assisted with creating a basic file structure and helped troubleshoot issues as they came up. Despite her telling me it is unneeded to directly attribute her I felt it was disingenuous to post this project without her name being on it for helping a large amount.
 
 I also found design inspiration from other github users, despite being careful to avoid using code for identical implementations their projects and portfolios were integral in helping me figure out a design and how to implement some elements.
 - [Dorota1997](https://github.com/Dorota1997/react-frontend-dev-portfolio)
@@ -111,17 +104,15 @@ I also found design inspiration from other github users, despite being careful t
 No tests needed beyond visiting website. To install locally please download or ``git pull`` repo and run ``npm install`` and ``npm run start``.
 
 ## Questions
-Find me on [GitHub](https://github.com/skylar-shae) or the project repository directly [here](https://github.com/skylar-shae/skylark-react-portfolio).
+Find me on [GitHub](https://github.com/skylark-shae) or the project repository directly [here](https://github.com/skylark-shae/react-portfolio-main).
+
+## License
+
+This project is licensed under the MIT license.
+
+The MIT License is a permissive software license originating at the Massachusetts Institute of Technology (MIT)[6] in the late 1980s.[7] As a permissive license, it puts very few restrictions on reuse and therefore has high license compatibility.
+
+For more information visit [MIT Licensing](https://choosealicense.com/licenses/mit/).
 
 - - -
 © 2024 Sky-Shae Design. All Rights Reserved.
-
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
