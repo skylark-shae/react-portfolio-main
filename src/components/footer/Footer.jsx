@@ -8,10 +8,10 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 function Footer() {
   return (
     <footer id='footer'>
-      <a href="#" className="footer_logo"><img src={Signature} alt='image of signature'/></a>
+      <a href="/" className="footer_logo"><img src={Signature} alt='Signature logo png color invert'/></a>
 
       <ul className="permaLinks">
-       <li><a href="#">Home</a></li>
+       <li><a href="/">Home</a></li>
        <li><a href="#about">About</a></li>
        <li><a href="#experience">Experience</a></li>
        <li><a href="#services">Services</a></li>

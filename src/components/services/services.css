@@ -39,6 +39,7 @@
   display: flex;
   gap: 1rem;
   margin-bottom: 0.7rem;
+  align-items: flex-start;
 }
 
 .service_list-icon {
@@ -47,7 +48,10 @@
 }
 
 .service_list p {
-    font-size: .9rem;
+  font-size: 0.9rem;
+  line-height: 1.5; /* Consistent line spacing for readability */
+  flex: 1; /* Ensures the paragraph occupies available space */
+  margin: 0; /* Prevent unwanted spacing */
 }
 
 /* Mediam @media */

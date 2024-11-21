@@ -36,7 +36,7 @@ function Experience() {
             <article className="experience_details">
               <FaCheckCircle className="experience_details-icon" />
               <div>
-                <h4>React and Vue</h4>
+                <h4>Vite</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
@@ -78,28 +78,28 @@ function Experience() {
               <FaCheckCircle className="experience_details-icon" />
               <div>
                 <h4>Node.js</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience_details">
               <FaCheckCircle className="experience_details-icon" />
               <div>
                 <h4>Express.js</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience_details">
               <FaCheckCircle className="experience_details-icon" />
               <div>
-                <h4>MySQL</h4>
-                <small className="text-light">Experienced</small>
+                <h4>PostgreSQL</h4>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience_details">
               <FaCheckCircle className="experience_details-icon" />
               <div>
-                <h4>MongoDB</h4>
-                <small className="text-light">Experienced</small>
+                <h4>MyDB</h4>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience_details">
@@ -112,22 +112,22 @@ function Experience() {
             <article className="experience_details">
               <FaCheckCircle className="experience_details-icon" />
               <div>
-                <h4>Version Control (Git)</h4>
-                <small className="text-light">Experienced</small>
+                <h4>Git Control</h4>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience_details">
               <FaCheckCircle className="experience_details-icon" />
               <div>
-                <h4>Object-Oriented Programming</h4>
-                <small className="text-light">Experienced</small>
+                <h4>OOP</h4>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience_details">
               <FaCheckCircle className="experience_details-icon" />
               <div>
-                <h4>Model-View-Controller Paradigm</h4>
-                <small className="text-light">Experienced</small>
+                <h4>CRUD</h4>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
           </div>

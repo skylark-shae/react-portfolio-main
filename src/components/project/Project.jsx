@@ -1,11 +1,11 @@
 import React from "react";
 import "./project.css";
-import cover1 from "../../assets/project-1-Screenshot 2024-11-04 214113.png";
-import cover2 from "../../assets/project-2-Screenshot 2024-11-04 213740.png";
-import cover3 from "../../assets/project-3-chrome_xT2LYoRyZr.gif";
-import cover4 from "../../assets/project-4-367958365-69bab77f-106f-4856-8b0d-15c6110f5ef2.png";
-import cover5 from "../../assets/project-5-Screenshot 2024-11-05 122830.png";
-import cover6 from "../../assets/project-6-Screenshot 2024-11-05 123436.png";
+import cover1 from "../../assets/project-1.png";
+import cover2 from "../../assets/project-2.png";
+import cover3 from "../../assets/project-3.gif";
+import cover4 from "../../assets/project-4.png";
+import cover5 from "../../assets/project-5.png";
+import cover6 from "../../assets/project-6.png";
 
 const data = [
   {
