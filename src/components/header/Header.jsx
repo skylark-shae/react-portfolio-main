@@ -15,7 +15,7 @@ function Header() {
           <CTA />
           <div>
             <div className="profile_image">
-              <img src={ProfileImage} alt="pofile image, skylark" />
+              <img src={ProfileImage} alt="Skylar Kline profile" />
             </div>
           </div>
           <HeaderSocials />
