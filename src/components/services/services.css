@@ -1,7 +1,7 @@
 .services_container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 3rem;
+  gap: 1.5rem;
 }
 
 .service {
@@ -32,7 +32,7 @@
 }
 
 .service_list {
-  padding: 2rem;
+  padding: 1.75rem;
 }
 
 .service_list li {
@@ -45,13 +45,15 @@
 .service_list-icon {
   color: var(--color-primary);
   margin-top: 2px;
+  width: 15px; /* Icon size; adjust as needed */
+  height: 15px; /* Icon size; adjust as needed */
 }
 
 .service_list p {
   font-size: 0.9rem;
-  line-height: 1.5; /* Consistent line spacing for readability */
-  flex: 1; /* Ensures the paragraph occupies available space */
-  margin: 0; /* Prevent unwanted spacing */
+  line-height: 1.75; /* Consistent line spacing for readability, gpt assist*/
+  flex: 1; /* Ensures the paragraph occupies available space, gpt assist*/
+  margin: 0; /* Prevent unwanted spacing, gpt assist */
 }
 
 /* Mediam @media */

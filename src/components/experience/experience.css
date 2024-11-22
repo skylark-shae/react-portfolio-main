@@ -32,13 +32,16 @@
 
 .experience_details {
   display: flex;
+  align-items: center;
   gap: 1rem;
 }
 
 .experience_details-icon {
-  margin-top: 6px;
+  width: 15px; /* Icon size; adjust as needed */
+  height: 15px; /* Icon size; adjust as needed */
+  margin-top: 4px;
   color: var(--color-primary);
-  min-width: 4px;
+  flex-shrink: 0;  /* Prevent shrinking, gpt assist */
 }
 
 /* Mediam @media */

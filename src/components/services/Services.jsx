@@ -10,29 +10,30 @@ function Services() {
       <h2>Services</h2>
 
       <div className="container services_container">
+
         {/* Content creation */}
         <article className='service'>
           <div className="service_head">
-            <h3> Content Creation</h3>
+            <h3>Content Creation</h3>
           </div>
           <ul className='service_list'>
             <li><FaCheckCircle className='service_list-icon'/>
-            <p>Experience in graphic design and ease in working with designers.</p>
+            <p>Graphic design expertise and collaboration with designers.</p>
             </li>
             <li><FaCheckCircle className='service_list-icon'/>
-            <p>General editing and webdign services.</p>
+            <p>General web design and editing services.</p>
             </li>
             <li><FaCheckCircle className='service_list-icon'/>
-            <p>Accounting experince and experience with web-based fincial tools.</p>
+            <p>Accounting skills with experience in web-based financial tools.</p>
             </li>
             <li><FaCheckCircle className='service_list-icon'/>
-            <p>Generating dashboard and data-visualization tools.</p>
+            <p>Dashboard and data visualization development.</p>
             </li>
             <li><FaCheckCircle className='service_list-icon'/>
-            <p>Custom requests accepted, please use the form below.</p>
+            <p>Open to custom requests—please use the form below.</p>
             </li>
           </ul>
-        </article>     
+        </article>
         
         {/* Marketing and conultation */}
         <article className='service'>
@@ -41,22 +42,22 @@ function Services() {
           </div>
           <ul className='service_list'>
             <li><FaCheckCircle className='service_list-icon'/>
-            <p>Conduct data analyses on pre-existing business performance.</p>
+            <p>Data analysis of business performance.</p>
             </li>
             <li><FaCheckCircle className='service_list-icon'/>
-            <p>Conduct general penitation testing with a focus on human and data security failures.</p>
+            <p>Penetration testing focused on human and data security.</p>
             </li>
             <li><FaCheckCircle className='service_list-icon'/>
-            <p>Survey current marketing plan and adjust for target market.</p>
+            <p>Marketing plan review and target market adjustments.</p>
             </li>
             <li><FaCheckCircle className='service_list-icon'/>
-            <p>UI/UX consultations and subsequent website improvements.</p>
+            <p>UI/UX consultations and website enhancements.</p>
             </li>
             <li><FaCheckCircle className='service_list-icon'/>
-            <p>Implement modern strategies to for clients and customers.</p>
+            <p>Implementation of modern client/customer strategies</p>
             </li>
             <li><FaCheckCircle className='service_list-icon'/>
-            <p>Provide industry knowledge on customer driven design.</p>
+            <p>Industry insights on customer-driven design.</p>
             </li>
           </ul>
         </article>
@@ -64,26 +65,26 @@ function Services() {
         {/* Web Development */}
         <article className='service'>
           <div className="service_head">
-            <h3> Web Development</h3>
+            <h3>Web Development</h3>
           </div>
           <ul className='service_list'>
             <li><FaCheckCircle className='service_list-icon'/>
-            <p>Front to back-end development (with PostgreSQL experience).</p>
+            <p>Full-stack development (including PostgreSQL)..</p>
             </li>
             <li><FaCheckCircle className='service_list-icon'/>
-            <p>Layered styling and design experience.</p>
+            <p>Advanced styling and design expertise.</p>
             </li>
             <li><FaCheckCircle className='service_list-icon'/>
-            <p>Customer Support Portals: Developing customer service portals with interactive forms, chat support features, and knowledge base integration, ensuring a seamless user experience.</p>
+            <p>Customer support portal development with interactive features.</p>
             </li>
             <li><FaCheckCircle className='service_list-icon'/>
-            <p>Joint mockup, via wireframe, of website prior to the start of project.</p>
+            <p>Wireframe mockups before project initiation.</p>
             </li>
             <li><FaCheckCircle className='service_list-icon'/>
-            <p>Responsive web-design with a focus on future change and development.</p>
+            <p>Responsive designs ready for future updates</p>
             </li>
             <li><FaCheckCircle className='service_list-icon'/>
-            <p>Consultations and check-ins on structure and design of website.</p>
+            <p>Ongoing consultations on deployed websites.</p>
             </li>
           </ul>
         </article>

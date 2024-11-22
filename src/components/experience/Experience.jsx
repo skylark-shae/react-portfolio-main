@@ -37,7 +37,7 @@ function Experience() {
               <FaCheckCircle className="experience_details-icon" />
               <div>
                 <h4>Vite</h4>
-                <small className="text-light">Intermediate</small>
+                <small className="text-light">Beginner</small>
               </div>
             </article>
             <article className="experience_details">
@@ -58,7 +58,7 @@ function Experience() {
               <FaCheckCircle className="experience_details-icon" />
               <div>
                 <h4>React</h4>
-                <small className="text-light">Intermediate</small>
+                <small className="text-light">Beginner</small>
               </div>
             </article>
             <article className="experience_details">
@@ -98,14 +98,14 @@ function Experience() {
             <article className="experience_details">
               <FaCheckCircle className="experience_details-icon" />
               <div>
-                <h4>MyDB</h4>
-                <small className="text-light">Intermediate</small>
+                <h4>RESTful APIs</h4>
+                <small className="text-light">Beginner</small>
               </div>
             </article>
             <article className="experience_details">
               <FaCheckCircle className="experience_details-icon" />
               <div>
-                <h4>Progressive Web Apps</h4>
+                <h4>Python</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
@@ -119,7 +119,7 @@ function Experience() {
             <article className="experience_details">
               <FaCheckCircle className="experience_details-icon" />
               <div>
-                <h4>OOP</h4>
+                <h4>Object Oriented Programming</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
