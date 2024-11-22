@@ -2,7 +2,7 @@ import React from 'react';
 import './footer.css'
 import { AiOutlineFacebook, AiOutlineInstagram } from 'react-icons/ai'
 import { FaXTwitter } from "react-icons/fa6";
-import Signature from '../../assets/Signature-White.png'
+import Signature from '../../assets/Tab-sig.png'
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 function Footer() {

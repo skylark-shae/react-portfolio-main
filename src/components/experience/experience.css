@@ -38,8 +38,7 @@
 .experience_details-icon {
   margin-top: 6px;
   color: var(--color-primary);
-  /* future implementation */
-  /* box-shadow: 0.1rem 0.1rem 0.2rem 0.1rem var(--color-primary-variant); */
+  min-width: 4px;
 }
 
 /* Mediam @media */
