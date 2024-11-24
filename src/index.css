@@ -40,6 +40,16 @@ body {
   color: var(--color-white);
   line-height: 1.7;
   background-image: url(../src/assets/bg-texture-file-vecteezy_circle-pattern/vecteezy_circle-pattern.jpg);
+  filter: none !important; /* Prevents dark mode extensions from applying filters */
+  background-blend-mode: normal !important; /* Ensures normal blend mode */
+  background-color: transparent !important;
+}
+
+/* testing darkreader correction */
+body, .container, section {
+  /* background-color: transparent !important; */
+  /* background-image: url(../src/assets/bg-texture-file-vecteezy_circle-pattern/vecteezy_circle-pattern.jpg); */
+  /* background-blend-mode: normal !important; */
 }
 
 /* ------- GENERAL STYLES -------- */
