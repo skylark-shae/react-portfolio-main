@@ -11,36 +11,30 @@ function Contact() {
       <div className="container contact_container">
         <div className="contact_options">
           <article className="contact_option">
-            <HiOutlineMail className="contact_option-icon"/>
+            <HiOutlineMail className="contact_option-icon" />
             <h4>Email</h4>
-            <a href="mailto:skylarkline.16+portfolio@gmail.com" target="_blank" rel="noopener noreferrer" className="">
-              Contact Me
-              </a>
+            <a href="mailto:skylarkline.16+portfolio@gmail.com" target="_blank" rel="noopener noreferrer" className="">Contact Me</a>
           </article>
           <article className="contact_option">
-            <FiLinkedin className="contact_option-icon"/>
+            <FiLinkedin className="contact_option-icon" />
             <h4>LinkedIn</h4>
             <a
               href="https://www.linkedin.com/in/skylark-shae"
               target="_blank" rel="noopener noreferrer"
               className=""
-            >
-              Work History
-              </a>
+            >Work History</a>
           </article>
           <article className="contact_option">
-            <FiGithub className="contact_option-icon"/>
+            <FiGithub className="contact_option-icon" />
             <h4>GitHub</h4>
             <a
               href="https://www.github.com/skylark-shae"
               target="_blank" rel="noopener noreferrer"
               className=""
-            >
-              Projects
-            </a>
+            >Projects</a>
           </article>
         </div>
-        
+
         {/* Contact Form*/}
         <form>
           <input
