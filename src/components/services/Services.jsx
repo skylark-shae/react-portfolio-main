@@ -1,4 +1,3 @@
-import React from 'react'
 import './services.css'
 import { FaCheckCircle } from "react-icons/fa";
 

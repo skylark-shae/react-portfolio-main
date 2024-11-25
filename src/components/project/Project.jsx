@@ -1,4 +1,3 @@
-import React from "react";
 import "./project.css";
 import cover1 from "../../assets/project-1.png";
 import cover2 from "../../assets/project-2.png";

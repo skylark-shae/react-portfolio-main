@@ -1,4 +1,3 @@
-import React from "react";
 import "./contact.css";
 import { HiOutlineMail } from "react-icons/hi";
 import { FiLinkedin, FiGithub } from "react-icons/fi";
@@ -15,32 +14,34 @@ function Contact() {
             <HiOutlineMail className="contact_option-icon"/>
             <h4>Email</h4>
             <a href="mailto:skylarkline.16+portfolio@gmail.com" target="_blank" rel="noopener noreferrer" className="">
-
+              Contact Me
               </a>
           </article>
           <article className="contact_option">
             <FiLinkedin className="contact_option-icon"/>
             <h4>LinkedIn</h4>
             <a
-              href="https://www.linkedin.com/in/skylar-shae"
+              href="https://www.linkedin.com/in/skylark-shae"
               target="_blank" rel="noopener noreferrer"
               className=""
             >
+              Work History
               </a>
           </article>
           <article className="contact_option">
             <FiGithub className="contact_option-icon"/>
             <h4>GitHub</h4>
             <a
-              href="https://www.github.com/skylar-shae"
+              href="https://www.github.com/skylark-shae"
               target="_blank" rel="noopener noreferrer"
               className=""
             >
+              Projects
             </a>
           </article>
         </div>
         
-        {/* START CONTACT FORM*/}
+        {/* Contact Form*/}
         <form>
           <input
             type="text"

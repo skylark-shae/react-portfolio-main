@@ -62,13 +62,13 @@ This application is deployed on [Netlify](https://skylark-shae-portfolio.netlify
 To 
 
 ## Demonstration
-<div style="margin-left: 20px;">
+<div style="margin-left: 40px;">
   Demonstration of the application's desktop interface:<br/>
   <img src="./src/assets/README-Desktop.gif" alt="Desktop demonstration video" width="550"/>
 </div>
 <br/>
 
-<div style="margin-left: 20px;">
+<div style="margin-left: 40px;">
   Demonstration of the application's mobile interface:<br/>
   <img src="./src/assets/README-Mobile.gif" alt="Mobile demonstration video" width="175"/>
 </div>

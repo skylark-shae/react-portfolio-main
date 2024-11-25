@@ -1,4 +1,3 @@
-import React from "react";
 import "./about.css";
 import aboutMe from "../../assets/signal-2024-11-05-124953.jpeg";
 import { FaAward, FaUsers, FaTasks } from "react-icons/fa";

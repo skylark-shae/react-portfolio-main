@@ -1,4 +1,3 @@
-import React from 'react';
 import './nav.css';
 import {BiHome, BiUser, BiCodeCurly, BiSolidBook, BiMessageSquareDetail} from 'react-icons/bi';
 import {RiServiceLine} from 'react-icons/ri';

@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react' //Removed this due to Vite update
 import Resume from '../../assets/cv.pdf'
 
 const CTA = () => {

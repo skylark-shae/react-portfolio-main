@@ -1,4 +1,3 @@
-import React from 'react';
 import './footer.css'
 import { AiOutlineFacebook, AiOutlineInstagram } from 'react-icons/ai'
 import { FaXTwitter } from "react-icons/fa6";
