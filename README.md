@@ -9,13 +9,14 @@ This project is my personal portfolio website, showcasing my background, skills,
 2. [Table of Contents](#table-of-contents)
 3. [Usage](#usage)
 4. [Installation](#installation)
-5. [Technologies Employed](#technologies-employed)
-6. [Future Development](#future-development)
-7. [Contributing](#contributing)
-8. [Credits](#credits)
-9. [Tests](#tests)
-10. [Questions](#questions)
-11. [License](#license)
+5. [Demonstration](#demonstration)
+6. [Technologies Employed](#technologies-employed)
+7. [Future Development](#future-development)
+8. [Contributing](#contributing)
+9. [Credits](#credits)
+10. [Tests](#tests)
+11. [Questions](#questions)
+12. [License](#license)
 
 ## Usage
 ### User Story
@@ -58,15 +59,20 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Installation
 This application is deployed on [Netlify](https://skylark-shae-portfolio.netlify.app/).
 
+To 
+
+## Demonstration
+<div style="margin-left: 20px;">
+  Demonstration of the application's desktop interface:<br/>
+  <img src="./src/assets/README-Desktop.gif" alt="Desktop demonstration video" width="550"/>
+</div>
 <br/>
-Demonstration the application's desktop and overall functionality:
 
-LINK
-
+<div style="margin-left: 20px;">
+  Demonstration of the application's mobile interface:<br/>
+  <img src="./src/assets/README-Mobile.gif" alt="Mobile demonstration video" width="175"/>
+</div>
 <br/>
-Demonstration the application's mobile interface:
-
-LINK
 
 ## Technologies Employed
 * React

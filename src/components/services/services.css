@@ -2,6 +2,7 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1.5rem;
+  align-items: stretch; /* Ensures all grid items stretch to equal height, gpt assist */
 }
 
 .service {
@@ -9,6 +10,9 @@
   border-radius: 1rem;
   border: 1px solid var(--color-primary);
   height: fit-content;
+  display: flex;
+  flex-direction: column; /* Stack children vertically, gpt assist */
+  justify-content: space-between; /* Distribute content evenly, gpt assist */
   transition: var(--transition);
 }
 
@@ -21,8 +25,8 @@
 .service_head {
   background: var(--color-primary);
   padding: 2rem;
-  border-radius: 1rem;
-  box-shadow: 0 2rem 1rem rgba(0, 0, 0, 0.1);
+  border-radius: 1rem 1rem 0 0;
+  box-shadow: 0 2rem 1rem rgba(121, 3, 115, 0.288);
 }
 
 .service_head h3 {
@@ -33,6 +37,7 @@
 
 .service_list {
   padding: 1.75rem;
+  flex-grow: 1;
 }
 
 .service_list li {
@@ -45,8 +50,8 @@
 .service_list-icon {
   color: var(--color-primary);
   margin-top: 2px;
-  width: 15px; /* Icon size; adjust as needed */
-  height: 15px; /* Icon size; adjust as needed */
+  width: 15px; /* For FaIcon size; adjust as needed */
+  height: 15px; /* For FaIcon size; adjust as needed */
 }
 
 .service_list p {
@@ -59,7 +64,7 @@
 /* Mediam @media */
 @media screen and (max-width: 1024px) {
     .services_container {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(2, 1fr);
         gap: 2rem;
     }
 

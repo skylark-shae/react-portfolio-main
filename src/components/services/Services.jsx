@@ -14,7 +14,7 @@ function Services() {
         {/* Content creation */}
         <article className='service'>
           <div className="service_head">
-            <h3>Content Creation</h3>
+            <h3> Content and Media Creation </h3>
           </div>
           <ul className='service_list'>
             <li><FaCheckCircle className='service_list-icon'/>

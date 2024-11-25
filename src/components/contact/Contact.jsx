@@ -15,8 +15,8 @@ function Contact() {
             <HiOutlineMail className="contact_option-icon"/>
             <h4>Email</h4>
             <a href="mailto:skylarkline.16+portfolio@gmail.com" target="_blank" rel="noopener noreferrer" className="">
-              Send a message
-            </a>
+
+              </a>
           </article>
           <article className="contact_option">
             <FiLinkedin className="contact_option-icon"/>
@@ -26,8 +26,7 @@ function Contact() {
               target="_blank" rel="noopener noreferrer"
               className=""
             >
-              Connect with me
-            </a>
+              </a>
           </article>
           <article className="contact_option">
             <FiGithub className="contact_option-icon"/>
@@ -37,7 +36,6 @@ function Contact() {
               target="_blank" rel="noopener noreferrer"
               className=""
             >
-              Browse my projects
             </a>
           </article>
         </div>
