@@ -23,10 +23,10 @@ function Footer() {
         <a href="https://instagram.com/skylarkshae" target="_blank" rel="noopener noreferrer"><AiOutlineInstagram/></a>
         <a href="https://x.com/Skylark_shae" id='twitter_logo' target="_blank" rel="noopener noreferrer"><FaXTwitter /></a>
         {/* <a href="https://bsky.app/profile/skylarkline.bsky.social" id='twitter_logo' target="_blank" rel="noopener noreferrer"><FaXTwitter /></a> */}
-        <span className="mobile_socials">
-        <a href="https://github.com/skylar-shae" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
-        <a href="https://linkedin.com/in/skylar-shae" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
-        </span>
+        {/* <span className="mobile_socials">
+        {/* <a href="https://github.com/skylar-shae" target="_blank" rel="noopener noreferrer"><FaGithub /></a> */}
+        {/* <a href="https://linkedin.com/in/skylar-shae" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a> */}
+        {/* </span> */}
       </div>
 
       <div className="footer_copyright">
