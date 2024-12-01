@@ -37,7 +37,7 @@
     font-size: .8rem;
 }
 
-/* Fillable contact from */
+/* Contact from */
 form {
     display: flex;
     flex-direction: column;
@@ -64,7 +64,7 @@ textarea::placeholder {
 
 /* Mediam @media */
 @media screen and (max-width: 1024px) {
-    .container.contact__container {
+    .container.contact_container {
         margin-left: auto;
         grid-template-columns: 1fr 1fr;
         gap: 2rem;
@@ -73,9 +73,10 @@ textarea::placeholder {
   
 /* Small @media */
   @media screen and (max-width: 600px) {
-    .container.contact__container {
+    .container.contact_container {
         margin-left: auto;
         grid-template-columns: 1fr;
+        /* background: transparent; */
     }
   }
   

@@ -39,8 +39,8 @@ const data = [
     id: 5,
     image: cover5,
     title: "Bucket List: Bootcamp Mini-Project",
-    github: "https://skylark-shae.github.io/bucket-list/",
-    site: "https://skylark-shae.github.io/bucket-list/",
+    github: "https://github.com/skylark-shae/Bucket_list",
+    site: "https://bucket-list-skyshae.netlify.app/",
   },
   {
     id: 6,
