@@ -1,7 +1,7 @@
 import "./contact.css";
 import { HiOutlineMail } from "react-icons/hi";
 // import FiLinkedin from "react-icons/fi";
-import FiGithub from "react-icons/fi";
+import { FiGithub, FiLinkedin } from "react-icons/fi";
 
 
 function Contact() {
