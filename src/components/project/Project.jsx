@@ -1,7 +1,7 @@
 import "./project.css";
 import cover1 from "../../assets/project-1.png";
 import cover2 from "../../assets/project-2.png";
-import cover3 from "../../assets/project-3.png";
+import cover3 from "../../assets/project-3.png"; // Corrected path
 import cover4 from "../../assets/project-4.png";
 import cover5 from "../../assets/project-5.png";
 import cover6 from "../../assets/project-6.png";
